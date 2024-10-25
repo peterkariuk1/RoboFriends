@@ -1,9 +1,18 @@
 body{
     margin: 0;
+    font-family: Arial, Helvetica, sans-serif;
+    background: linear-gradient(to left,rgba(7, 27, 81, 1)0%,rgba(0,128,128,1)100%);
     
 }
+.app-container{
+    text-align: center;
+}
+.app-container h1{
+    font-family:Verdana, Geneva, Tahoma, sans-serif ;
+    color: aquamarine;
+}
 .robot-card{
-    background-color: rgb(217, 252, 246);
+    background-color: rgba(217, 252, 246, 0.438);
     border-radius: 20px;
     max-width:250px;
     display: flex;
@@ -26,5 +35,22 @@ body{
     grid-template-columns: 1fr 1fr 1fr 1fr 1fr 1fr;
     column-gap: 10px;
     row-gap: 10px;
-    margin: 10px 0px 0px 10px;
+    margin: 15px 0px 0px 10px;
+}
+.search-box{
+    padding:10px 50px;
+    border-radius: 18px;
+    background-color:rgba(97, 157, 254, 0.258);
+    border: none;
+    box-shadow: 0px 2px 4px rgba(0, 0, 0, 0.149);
+    caret-color:red;
+}
+.search-box:focus{
+    outline: none;
+    background-color: rgba(97, 134, 254, 0.09);
+}
+.search-box::placeholder{
+    margin-left: 6px;
+    color: antiquewhite;
+    font-size: 14px;
 }

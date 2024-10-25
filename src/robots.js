@@ -1,4 +1,4 @@
-export const robots = [
+/*export const robots = [
     {
       id: 1,
       name: 'Leanne Graham',
@@ -55,9 +55,69 @@ export const robots = [
     },
     {
       id: 10,
-      name: 'Clementina DuBuque',
+      name: 'Clementine DuBuque',
+      username: 'Moriah.Stanton',
+      email: 'Rey.Padberg@karina.biz'
+    },
+    {
+      id: 11,
+      name: 'Poyt Graham',
+      username: 'Bret',
+      email: 'Sincere@april.biz'
+    },
+    {
+      id: 12,
+      name: 'Ern Howell',
+      username: 'Antonette',
+      email: 'Shanna@melissa.tv'
+    },
+    {
+      id: 13,
+      name: 'Cline Bauch',
+      username: 'Samantha',
+      email: 'Nathan@yesenia.net'
+    },
+    {
+      id: 14,
+      name: 'Patricia Lebsack',
+      username: 'Karianne',
+      email: 'Julianne.OConner@kory.org'
+    },
+    {
+      id: 15,
+      name: 'Clsey Dich',
+      username: 'Kamren',
+      email: 'Lucio_Hettinger@annie.ca'
+    },
+    {
+      id: 16,
+      name: 'Mr. Dennis Sclist',
+      username: 'Leopoldo_Corkery',
+      email: 'Karley_Dach@jasper.info'
+    },
+    {
+      id: 17,
+      name: 'Kurtis Weissnt',
+      username: 'Elwyn.Skiles',
+      email: 'Telly.Hoeger@billy.biz'
+    },
+    {
+      id: 18,
+      name: 'Nholas Runolfsdottir V',
+      username: 'Maxime_Nienow',
+      email: 'Sherwood@rosamond.me'
+    },
+    {
+      id: 19,
+      name: 'Glenna Reert',
+      username: 'Delpe',
+      email: 'Chaim_McDermott@dana.io'
+    },
+    {
+      id: 20,
+      name: 'Jna DuBuque',
       username: 'Moriah.Stanton',
       email: 'Rey.Padberg@karina.biz'
     }
   ];
-  
+  */
