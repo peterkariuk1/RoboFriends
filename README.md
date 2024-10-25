@@ -1,8 +1,18 @@
-# Getting Started with Create React App
+ROBOFRIENDS
+A fun React application that collects robots from around the web using an API! This app fetches various robot images and details, displaying them in a user-friendly layout. Users can explore a gallery of robots with unique styles and designs.
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Features:
+API Integration: Uses a public API to source different robot images and information.
 
-## Available Scripts
+Interactive UI: Built with React for a responsive, single-page experience.
+
+Search and Filter Options: Allows users to easily find and view specific robots.
+
+Reusable Components: Designed with modular components for easy maintenance and updates.
+
+Tech Stack:
+Frontend: React, JavaScript, CSS
+API: jsonplaceholder.typicode.com
 
 In the project directory, you can run:
 
